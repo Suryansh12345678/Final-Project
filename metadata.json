@@ -1,0 +1,7 @@
+{
+  "name": "NMIMS Indore - Sacred Knowledge Portal",
+  "description": "A high-fidelity, cinematic student portal inspired by the divine forest aesthetic of Kantara, featuring mystical animations and spatial audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
